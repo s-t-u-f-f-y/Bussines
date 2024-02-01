@@ -668,6 +668,7 @@ body {
   color: #D3CFCE;
   -webkit-transition: all 0.2s ease 0s;
   transition: all 0.2s ease 0s;
+  max-width: 138px;
 }
 @media (max-width: 1024px) {
   .menu-news__link {
