@@ -883,6 +883,7 @@ body {
 @media (max-width: 630px) {
   .news__link {
     font-size: 16px;
+    max-width: 113px;
   }
 }
 .news__link:after {
