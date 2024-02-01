@@ -668,7 +668,6 @@ body {
   color: #D3CFCE;
   -webkit-transition: all 0.2s ease 0s;
   transition: all 0.2s ease 0s;
-  max-width: 138px;
 }
 @media (max-width: 1024px) {
   .menu-news__link {
@@ -879,6 +878,7 @@ body {
   text-transform: uppercase;
   color: #007397;
   position: relative;
+  max-width: 140px;
 }
 @media (max-width: 630px) {
   .news__link {
